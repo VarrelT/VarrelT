@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/activity?username=VarrelT&theme=gotham&hide_border=false" alt="Activity Graph" />
+</div>
 
-<!--
-**VarrelT/VarrelT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/streak?username=VarrelT&theme=gotham&hide_border=false&border_radius=10" width="50%" alt="GitHub Streak" />
+  <img src="https://github-profile-maker.vercel.app/api/top-langs?username=VarrelT&theme=gotham&layout=compact&hide_border=false&hide_progress=false&langs_count=8&border_radius=10" width="50%" alt="Top Languages" />
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/stats?username=VarrelT&theme=gotham&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=10" alt="GitHub Stats" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/stats?username=VarrelT&theme=gotham&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=10" alt="GitHub Stats" width="49%" height="230" style="margin-right: 12px;" />
+  <img src="https://github-profile-maker.vercel.app/api/top-langs?username=VarrelT&theme=gotham&layout=compact&hide_border=false&hide_progress=false&langs_count=8&border_radius=10" alt="Top Languages" width="49%" height="230" style="" />
+</div>
